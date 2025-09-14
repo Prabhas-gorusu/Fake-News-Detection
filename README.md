@@ -60,7 +60,6 @@ It uses keyword analysis to highlight suspicious language and provide visual war
   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b4190efb-f342-4d1c-8931-888040cfbbc0" />
 
 
-*(Place your images inside a `docs/screenshots/` folder in the repo.)*
 
 ---
 
