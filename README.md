@@ -81,7 +81,7 @@ It uses keyword analysis to highlight suspicious language and provide visual war
 
 * **Prabhas Gorusu** – Developer
 
-*Sharief SK* - Co - Developer
+* **Sharief SK**  Co - Developer
 
 ---
 
