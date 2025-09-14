@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Fake News Detector</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <h2>Fake News Detector</h2>
+
+  <div class="scores-container">
+    <div class="score-column fake-news">
+      <h3>Fake News Risk</h3>
+      <div id="fake-percentage" class="score-value">--</div>
+      <div class="score-label">Higher = More Risky</div>
+    </div>
+
+    <div class="score-column real-news">
+      <h3>Real News Score</h3>
+      <div id="real-percentage" class="score-value">--</div>
+      <div class="score-label">Higher = More Reliable</div>
+    </div>
+  </div>
+
+  <div id="status" class="status">Ready to scan</div>
+  <button id="rescan" class="scan-button">Scan Webpage</button>
+
+  <script src="popup.js"></script>
+</body>
+
+</html>
