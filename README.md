@@ -38,7 +38,7 @@ It uses keyword analysis to highlight suspicious language and provide visual war
 1. Clone this repository or download the ZIP.
 
    ```bash
-   git clone https://github.com/your-username/fake-news-detector.git
+   git clone https://github.com/Prabhas-gorusu/fake-news-detector.git
    ```
 2. Open **Chrome** and go to:
    `chrome://extensions/`
@@ -53,13 +53,12 @@ It uses keyword analysis to highlight suspicious language and provide visual war
 > Add your extension screenshots here to show how it looks in action.
 
 * **Popup View**
-  ![Popup Screenshot](docs/screenshots/popup.png)
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2818116f-3c07-45a3-9640-c802b2d70b87" />
+
 
 * **On-Page Warning Banner**
-  ![Warning Banner Screenshot](docs/screenshots/warning-banner.png)
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b4190efb-f342-4d1c-8931-888040cfbbc0" />
 
-* **Options Page**
-  ![Options Page Screenshot](docs/screenshots/options.png)
 
 *(Place your images inside a `docs/screenshots/` folder in the repo.)*
 
@@ -75,6 +74,14 @@ It uses keyword analysis to highlight suspicious language and provide visual war
    * **Fake News Risk %**
    * **Real News Reliability %**
 5. (Optional) Add your own keywords under **Options** → `chrome-extension://.../options.html`
+
+---
+
+## 👥 Team
+
+* **Prabhas Gorusu** – Developer
+
+*Sharief SK* - Co - Developer
 
 ---
 
